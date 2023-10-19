@@ -1,6 +1,6 @@
 # Web Calculator :heavy_plus_sign: :heavy_minus_sign: :heavy_multiplication_x: :heavy_division_sign:
 
-![Web Calculator](calculator-screenshot.png)
+![Web Calculator]([calculator-screenshot.png](https://github.com/DelchevV/calculator-app/blob/master/Screenshot_6.png?raw=true))
 
 A simple web calculator built with React. This project represents my first experience with React and deployment.
 
